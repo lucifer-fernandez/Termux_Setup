@@ -1,4 +1,4 @@
-# 🧰 Termux Setup Script by Lucifer
+# 🧰 Termux Setup by Rayhan
 
 This script installs **50+ essential Termux packages** and **20 popular Python modules** automatically. It's the perfect one-click setup for developers, ethical hackers, coders, and Termux enthusiasts.
 
