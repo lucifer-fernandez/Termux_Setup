@@ -87,15 +87,17 @@ Installing curl...
 
 ---
 
-👤 Author
+📧 Contact
 
-Name: Lucifer
+Facebook: [Mohammad Rayhan Khan](https://www.facebook.com/azad.farabi.2024)
 
-GitHub: @lucifer-fernandez
+GitHub: [lucifer-fernandez](https://github.com/lucifer-fernandez)
 
-Telegram: @rayhankhan4you
+Telegram : [Md Rayhan Khan](@rayhankhan4you)
 
-Email: rayhankhan4u@gmail.com
+Gmail: [G-mail](rayhankhan4u@gmail.com)
+
+Youtube: [Cyber Tesla](https://youtube.com/@cyber_tesla?si=cNaVnhQ1YvGzKYj3)
 
 
 
